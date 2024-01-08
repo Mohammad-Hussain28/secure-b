@@ -17,3 +17,9 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 # Azure AI Services
 1. Language Sevice
 2. Azure Bot Service
+# Technologies Used
+1. HTML5
+2. CSS3
+3. BootStrap 5
+4. Java Script
+5. Azure Portal
