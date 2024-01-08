@@ -27,3 +27,11 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 Secure bank uses Azure services such as chatbot to improve the customer experience and retention of our bank by leveraging digital technoloiges and personalization. We reduced the operational costs and risks of our bank by implementing smart contracts for transactions and compliance. We also enhance the security and privacy of our bank and our customers by adopting different authentication and encryption methods. We create more sustainable and socially responsible banking model by integrating environmental, social, and impact measurement into our leading and investment decisions.
 # Project Description
 Explore a user-friendly interface, manage accounts effortlessly, and enjoy a range of services designed to streamline your banking experience. Your financial well-being is our priority.The website employs robust encryption for enhanced security, ensuring the protection of sensitive information. With an intuitive design, it facilitates easy navigation for customers to explore various banking products, apply for loans, and access personalized financial insights. Real-time updates on account activities and a responsive customer support feature further enhance the overall banking experience.
+# Core Azure Services
+**Azure Storage Account :**
+
+Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage. It supports various storage services like Blob, File, Queue, and Table, accommodating diverse data types. With features such as redundancy options and access controls, it ensures reliable and efficient data management.
+
+**Azure Backup Service :**
+
+Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
