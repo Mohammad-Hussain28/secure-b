@@ -93,6 +93,9 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 
 # Resource Visualizer
 
+[![Screenshot 2024-01-08 164518](https://github.com/Mohammad-Hussain28/secure-b/assets/153582727/873daa0a-95f9-49c7-a064-e2f2e100d54c)]
+
+
 # Final Project Statement
 
 The final project statement enchances bank website with a comprehensive ecosystem, enhancing security, compliance, and overall website performance. The project aims to optimize data management, facilitate collaboration, and meet regulatory requirements, ultimately providing customers with a seamless, secure, and feature-rich online banking experience.
