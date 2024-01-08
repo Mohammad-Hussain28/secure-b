@@ -93,7 +93,7 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 
 # Resource Visualizer
 
-[![Screenshot 2024-01-08 164518](https://github.com/Mohammad-Hussain28/secure-b/assets/153582727/873daa0a-95f9-49c7-a064-e2f2e100d54c)]
+![Screenshot 2024-01-08 164518](https://github.com/Mohammad-Hussain28/secure-b/assets/153582727/873daa0a-95f9-49c7-a064-e2f2e100d54c)
 
 
 # Final Project Statement
