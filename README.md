@@ -9,3 +9,6 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 1. Storage Account
 2. Azure Blob Storage
 3. Azure Backup Service
+# Azure AI Services
+1. Language Sevice
+2. Azure Bot Service
