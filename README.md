@@ -35,3 +35,10 @@ Azure Storage Account is a foundational component in Microsoft Azure, providing 
 **Azure Backup Service :**
 
 Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. It offers automated and scalable backup solutions for virtual machines, applications, and files. With features like long-term retention and geo-redundancy, it ensures data resilience and facilitates efficient disaster recovery, enhancing overall data protection strategies.
+# Azure Services
+# Screenshots
+**Azure Storage Account:** Azure Storage Account is a foundational component in Microsoft Azure, providing secure and scalable cloud storage.
+
+![Screenshot 2024-01-04 124214](https://github.com/Mohammad-Hussain28/Secure_bank/assets/151023205/ee0e5014-23bb-4597-877f-dd98297c7a57)
+
+
