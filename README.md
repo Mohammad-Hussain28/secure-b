@@ -51,3 +51,11 @@ Azure Backup Service by Microsoft safeguards critical data in the Azure cloud. I
 
 ![Screenshot 2024-01-04 131730](https://github.com/Mohammad-Hussain28/Secure_bank/assets/151023205/d693d00f-a3bc-4d56-bcdc-48d8003b38ae)
 
+**Azure Backup Service :** Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
+
+![Screenshot 2024-01-04 131803](https://github.com/Mohammad-Hussain28/Secure_bank/assets/151023205/2619e1b6-2696-4e05-9210-5dbcd1487fb0)
+
+**Azure ChatBot :** The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
+
+![Screenshot 2024-01-04 164611](https://github.com/Mohammad-Hussain28/Secure_bank/assets/153582727/f9d07c0b-be6d-4d08-b463-5bed609878e2)
+
