@@ -8,7 +8,7 @@ The Bank Where Money Meets Trust because Your Money Deserves The Best.
 # Project Details
 1. Project Demo URL : [https://securebank00.z13.web.core.windows.net/]
 2. Demo Video URL :
-3. Git-Hub Repository URL :
+3. Git-Hub Repository URL : [https://github.com/Mohammad-Hussain28/secure-b]
 4. Industry : Finance Sector
 # Azure Services
 1. Storage Account
