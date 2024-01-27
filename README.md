@@ -1,7 +1,7 @@
 # Secure Bank
 The Bank Where Money Meets Trust because Your Money Deserves The Best.
 # Roles/Responsibilities
-1. Mohammad Hussain - Front-end and AI Service Deployment
+1. Mohammad Hussain - Front-end Development and AI Service Deployment
 2. Rakesh - Content Collection
 3. Bhargavi - Front-end and logo design 
 4. Rohith - Azure AI Services
